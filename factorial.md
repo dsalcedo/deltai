@@ -1,5 +1,7 @@
 # Run
 
+[factorial.py](factorial.py)
+
 `python3 factorial.py`
 
 ```bash
