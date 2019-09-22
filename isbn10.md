@@ -1,5 +1,7 @@
 # Run
 
+[isbn10](isbn10.py)
+
 `python3 isbn10.py`
 
 ```
@@ -10,3 +12,5 @@ Sums: [0, 27, 0, 42, 24, 0, 24, 3, 10, 2]
 Result: 132
 True
 ```
+
+
