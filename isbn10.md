@@ -1,6 +1,6 @@
 # Run
 
-[isbn10](isbn10.py)
+[isbn10.py](isbn10.py)
 
 `python3 isbn10.py`
 
